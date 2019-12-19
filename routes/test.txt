@@ -1,0 +1,39 @@
+Accounting
+    Expenses
+        Purchases
+    
+Inventory
+    consumable
+    non-consumable
+
+Rooms    
+    Housekeeping
+        Room makeup
+        Room Service  ->request service using mobile
+            Food
+            add categories
+            
+    Repairs & maintenance
+        for repair
+        repaired item
+
+
+    Laundy
+        laundry-In
+        Laundry-out
+ 
+
+
+Administrator
+    Owner
+    Company/Organization
+        Properties 
+            Rooms/Amenities/Parking lot
+                roles
+
+    company administrator
+    property
+    frontdesk
+    repairs and maintenance
+
+
