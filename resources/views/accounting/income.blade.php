@@ -82,7 +82,7 @@
                                                 <td></td>
                                             
                                                 <td>
-                                                    <a href="#">Shampoo</a>
+                                                    <a href="#">Soap</a>
                                                 </td>
                                                 <td><span class="invoice-amount">Bathroom</span></td>
                                                 <td><small>Dove Shampoo</small></td>
